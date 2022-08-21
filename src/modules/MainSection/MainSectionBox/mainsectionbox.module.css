@@ -1,0 +1,10 @@
+
+.direction {
+    display: flex;
+    justify-content: right;
+}
+
+.contentBox {
+    max-width: 445px;
+    align-self: center;
+}
