@@ -1,8 +1,8 @@
 {
-  "name": "react-landie-page",
+  "name": "react-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://igrillio.github.io/landie-page/",
+  "homepage": "https://igrillio.github.io/landing-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
